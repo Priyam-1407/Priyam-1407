@@ -1,257 +1,186 @@
 <div align="center">
 
-# 👋 Hi, I'm Priyam Tiwari
+# PRIYAM.TIWARI
 
-### Software Developer | DSA Enthusiast | Backend & AI/ML Explorer
+### Software Developer • Problem Solver • AI/ML Enthusiast
 
-I enjoy turning ideas into working products and learning
-how technology can solve real-world problems.
+Building practical software, solving problems, and exploring how AI can make developer workflows smarter.
 
 <br>
 
 <a href="https://github.com/Priyam-1407">
-<img src="https://img.shields.io/badge/GitHub-Priyam--1407-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Priyam--1407-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/priyam-tiwari-81984836a/">
-<img src="https://img.shields.io/badge/LinkedIn-Priyam%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Priyam%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🌱 A Little About Me
+## 👋 About Me
 
-I'm a Computer Science student interested in **software
-development, problem solving and intelligent applications**.
+I'm a developer who enjoys turning ideas into working products.
 
-My current journey revolves around three major areas:
+My current focus is on **DSA, backend development, and AI/ML**, while continuously building projects that help me understand how real-world software works.
 
-- 🧠 Strengthening **Data Structures & Algorithms with Java**
-- ⚙️ Exploring **Backend Development & APIs**
-- 🤖 Learning **Artificial Intelligence & Machine Learning**
-
-I also enjoy hackathons because they push me to turn an idea
-into something usable within a limited amount of time.
+- 🧠 Strengthening my problem-solving skills with **Java & DSA**
+- ⚙️ Building backend applications and **REST APIs**
+- 🤖 Exploring **AI/ML and AI-powered developer tools**
+- 🚀 Participating in hackathons and building projects from scratch
+- 📚 Always learning, experimenting, and improving
 
 ---
 
-## 🔭 What I'm Exploring Right Now
+## 🔭 What I'm Exploring
 
 <table>
 <tr>
-
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 ### 🧠 DSA
 
-Java  
-LeetCode  
-Algorithms  
-Data Structures  
-Problem Solving
+Improving problem-solving and algorithmic thinking through:
+
+- Data Structures
+- Algorithms
+- Dynamic Programming
+- Graphs & Trees
+- LeetCode
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 ### ⚙️ Backend
 
-Django  
-REST APIs  
-SQL  
-Authentication  
-Server-side Development
+Learning how applications work behind the scenes:
+
+- Python / Django
+- REST APIs
+- Authentication
+- Databases
+- PostgreSQL / MySQL
+- API testing with Postman
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 ### 🤖 AI / ML
 
-Python  
-NumPy  
-Pandas  
-Scikit-learn  
-Machine Learning
+Exploring practical applications of AI:
+
+- Machine Learning
+- Python
+- NumPy & Pandas
+- Scikit-learn
+- AI-powered applications
+- LLM-based tools
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🧰 Technologies I Work With
+## 🛠️ Tech Stack
 
-### Programming
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Frontend & Backend
+### Frameworks & Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-### Data & Machine Learning
+### Data, AI & Tools
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### Databases & Tools
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Things I've Built
+# 🚀 Featured Projects
 
-<table>
-<tr>
+### ⚡ SmartCommit
 
-<td width="50%">
+A developer-focused project exploring a smarter approach to the Git commit workflow.
 
-### 🤖 SmartCommit
+**Python • AI • Git • Automation**
 
-A developer-oriented project exploring a smarter approach
-to the Git commit workflow.
-
-**Python · AI · Git · Automation**
-
-<br>
-
-<a href="https://github.com/Priyam-1407/smartcommit">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI Idea Validator
-
-An application focused on helping users evaluate ideas
-and receive structured feedback using AI.
-
-**AI/ML · Web Development**
-
-<br>
-
-<a href="https://ai-idea-validator-kappa.vercel.app/">
-Open Live App →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Student Performance Analysis
-
-A Python project for exploring and understanding
-student examination data through analysis and visualization.
-
-**Python · Pandas · NumPy · Gradio**
-
-</td>
-
-<td width="50%">
-
-### ⚛️ TextUtils
-
-A React application created while exploring
-component-based frontend development and routing.
-
-**React · JavaScript · HTML · CSS**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏥 ASHAConnect
-
-A healthcare-oriented EHR companion concept developed
-as part of hackathon work.
-
-**Web · EHR · Data Management**
-
-</td>
-
-<td width="50%">
-
-### 💡 More on the Way...
-
-Currently experimenting with new ideas across
-**backend, AI/ML and developer tools.**
-
-</td>
-
-</tr>
-</table>
+[**View Repository →**](https://github.com/Priyam-1407/smartcommit)
 
 ---
 
-# 🏆 Hackathon Journey
+### 🧩 Breadcrumbles.ai
+
+An AI-powered coding hint engine designed to help developers solve DSA problems without immediately revealing the complete solution.
+
+It provides **progressive hints, approach guidance, and pseudocode assistance** through an interactive interface.
+
+**FastAPI • Ollama • AI • DSA**
+
+[**View Repository →**](https://github.com/Priyam-1407/Breadcrumbles.ai)
+
+---
+
+### 🤖 AI Idea Validator
+
+An AI-powered application that helps evaluate and validate project ideas by turning an initial concept into structured insights.
+
+**AI • Web Development • Product Thinking**
+
+[**Try Live Demo →**](https://ai-idea-validator-kappa.vercel.app/)
+
+---
+
+## 🏆 Hackathon Journey
+
+### 🥇 Smart India Hackathon 2026
+Worked on a real-world problem statement as part of a team, focusing on research, solution design, development, and presentation.
+
+### 💻 HackSprint 2026
+Built and presented a technology-driven solution under hackathon constraints.
 
 ### ⚡ HackBIOS 2025
+Participated in a 24-hour hackathon, collaborating with a team to build and present a working solution.
 
-Worked on a real-world problem in a fast-paced
-hackathon environment.
-
-### 🚀 HackSprint 2026
-
-Collaborated on building and presenting a technical solution.
-
-### 🇮🇳 Smart India Hackathon 2026
-
-Worked on a problem statement focused on creating
-a practical technology-driven solution.
+Hackathons have helped me improve not only my technical skills, but also **teamwork, problem-solving, rapid prototyping, and presenting ideas clearly.**
 
 ---
 
-# 📈 My Developer Journey
+## 📈 My Developer Journey
 
 ```text
-              Learn the Fundamentals
-                       │
-                       ▼
-                 Java + DSA
-                       │
-                       ▼
-                Solve Problems
-                       │
-                       ▼
-              Build Web Projects
-                       │
-                       ▼
-              Explore Backend
-                       │
-                       ▼
-              Dive into AI / ML
-                       │
-                       ▼
-                 AWS + DevOps
+Learning
+   ↓
+Building Projects
+   ↓
+Solving DSA Problems
+   ↓
+Exploring AI & Backend
+   ↓
+Hackathons & Collaboration
+   ↓
+Building Better Products
