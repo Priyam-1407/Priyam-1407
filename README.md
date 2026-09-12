@@ -1,37 +1,27 @@
 <div align="center">
 
-# 👋 Hey, I'm Priyam Tiwari
+# `PRIYAM.TIWARI`
 
-### `Software Developer` • `DSA` • `Backend` • `AI/ML`
+### SOFTWARE DEVELOPER · PROBLEM SOLVER · BUILDER
 
-Building things. Solving problems. Learning every day. 🚀
+**Turning ideas into code — and code into useful things.**
 
 <br>
 
-<a href="https://github.com/Priyam-1407">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Priyam--1407-181717?style=flat-square&logo=github)](https://github.com/Priyam-1407)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## 👨‍💻 `whoami`
-
-Hi! I'm **Priyam**, a Computer Science student who enjoys
-turning ideas into practical software.
-
-I'm currently focused on **Data Structures & Algorithms,
-Backend Development and AI/ML**.
-
-I enjoy building projects, participating in hackathons,
-and understanding how things work rather than just using them.
+## `01 / ABOUT`
 
 ```text
-Learn → Build → Break → Debug → Repeat
+$ whoami
+
+Name        : Priyam Tiwari
+Role        : Software Developer
+Focus       : DSA · Backend · AI/ML
+Language    : Java
+Status      : Learning & Building 🚀
